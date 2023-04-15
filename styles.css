@@ -70,6 +70,12 @@ a {
 
   margin: 0 auto;
 }
+.ind-button {
+  text-decoration: none;
+}
+.ind-button:hover {
+  text-decoration: none;
+}
 .about:hover,
 .contact:hover {
   cursor: pointer;
